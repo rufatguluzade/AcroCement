@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Acro\\Presentation\\wwwroot\\img\\about\\3a78f6b2-01a6-4fb1-8485-564dad43d4a7_202408240133503735.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\3a78f6b2-01a6-4fb1-8485-564dad43d4a7_202408240133503735.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Acro\\Presentation\\wwwroot\\img\\contact\\2c004ecb-c13a-4bc6-9553-93fced9b58b7_202408231433082872.jpg",
+      "PackagePath": "staticwebassets\\img\\contact\\2c004ecb-c13a-4bc6-9553-93fced9b58b7_202408231433082872.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Acro\\Presentation\\wwwroot\\img\\slider\\12159b7b-ff45-4795-840f-282d33615d3c_202408231542483330.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\12159b7b-ff45-4795-840f-282d33615d3c_202408231542483330.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Presentation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Presentation.props",
+      "PackagePath": "build\\Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Presentation.props",
+      "PackagePath": "buildMultiTargeting\\Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Presentation.props",
+      "PackagePath": "buildTransitive\\Presentation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

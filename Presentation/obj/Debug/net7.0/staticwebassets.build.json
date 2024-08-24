@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "yJjow53g/oQ2gi3nPSJI0xzUuMkCMKwFMjDwK7g1XFY=",
+  "Source": "Presentation",
+  "BasePath": "_content/Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Presentation\\wwwroot",
+      "Source": "Presentation",
+      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Acro\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ROG\\source\\repos\\Acro\\Presentation\\wwwroot\\img\\about\\3a78f6b2-01a6-4fb1-8485-564dad43d4a7_202408240133503735.jpg",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Acro\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "img/about/3a78f6b2-01a6-4fb1-8485-564dad43d4a7_202408240133503735.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\about\\3a78f6b2-01a6-4fb1-8485-564dad43d4a7_202408240133503735.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\source\\repos\\Acro\\Presentation\\wwwroot\\img\\contact\\2c004ecb-c13a-4bc6-9553-93fced9b58b7_202408231433082872.jpg",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Acro\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "img/contact/2c004ecb-c13a-4bc6-9553-93fced9b58b7_202408231433082872.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\contact\\2c004ecb-c13a-4bc6-9553-93fced9b58b7_202408231433082872.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\source\\repos\\Acro\\Presentation\\wwwroot\\img\\slider\\12159b7b-ff45-4795-840f-282d33615d3c_202408231542483330.jpg",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Acro\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "img/slider/12159b7b-ff45-4795-840f-282d33615d3c_202408231542483330.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\slider\\12159b7b-ff45-4795-840f-282d33615d3c_202408231542483330.jpg"
+    }
+  ]
+}
